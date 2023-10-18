@@ -1,10 +1,10 @@
 # Luiz Gustavo
 
--👨‍💻 Estudando Js,CSS,HTML,python,ts,tj.
+-👨‍💻 basico Js,Ts,CSS,HTML,python.
 
 -🖥️ Cursando Sistemas de Informação
 
--🖥️ Estudando React, angula.
+-🖥️ Basico em Angula typescrip, e nest.ts.
 
 ##
 
