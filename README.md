@@ -1,10 +1,10 @@
 # Luiz Gustavo
 
--👨‍💻 basico Js,Ts,CSS,HTML,python.
+-👨‍💻 Js,Django,Nest.js, Angular, Ts,CSS,HTML,python.
 
 -🖥️ Cursando Sistemas de Informação
 
--🖥️ Basico em Angula typescrip, e nest.ts.
+-🖥️ Angula typescrip, e nest.ts.
 
 ##
 
