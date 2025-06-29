@@ -29,6 +29,8 @@
   <a href="https://github.com/limahgustavo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limahgustavo&show_icons=true&theme=dark&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limahgustavo&layout=compact&langs_count=7&theme=dark" />
+    <img src="https://github-profile-trophy.vercel.app/?username=limahgustavo&theme=darkhub&no-frame=true" />
+
   </a>
 </div>
 
